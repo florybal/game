@@ -1,0 +1,1 @@
+Can confirm SDL_RENDERER_PRESENTVSYNC is working so it's locked in 60fps on my machine. For shits and giggles I put two. One before and one after SDL_RenderPresent. Didn't affect anything
